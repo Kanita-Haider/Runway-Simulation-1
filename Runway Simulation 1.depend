@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1699156949 source:d:\7th sem\graphics lab project\runway simulation 1\main.c
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<GL/gl.h>
+	<math.h>
+
